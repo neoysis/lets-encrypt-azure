@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: neoysis-letsencrypt
+  ResourceGroup: neoysis-letsencrypt 
 jobs:
   build:
     runs-on: ubuntu-latest
